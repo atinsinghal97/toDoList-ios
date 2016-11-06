@@ -99,8 +99,7 @@
 				TargetAttributes = {
 					AD200ADB1DCF3EC30097F91C = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = EWSB78Y5YB;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -263,7 +262,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = EWSB78Y5YB;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "To Do List/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.AtinSinghal97.Example-App";
@@ -276,7 +275,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = EWSB78Y5YB;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "To Do List/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.AtinSinghal97.Example-App";
@@ -304,6 +303,7 @@
 				AD200AF21DCF3EC30097F91C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
